@@ -22,5 +22,3 @@ Um site simples para realizar sorteios de amigo secreto. O usuário pode adicion
 3. Repita o passo 2 para todos os amigos que deseja incluir.  
 4. Clique em **Sortear amigo** para ver quem foi sorteado.
 
-## Estrutura do projeto
-
